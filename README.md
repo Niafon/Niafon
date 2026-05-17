@@ -1,12 +1,6 @@
 <div align="center">
 
 # Niafon
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Go+%7C+PostgreSQL+%7C+Docker;Building+APIs%2C+bots+and+backend+systems" alt="Typing SVG" />
-
-<br><br>
-
 <a href="https://github.com/Niafon?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
