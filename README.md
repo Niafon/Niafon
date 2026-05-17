@@ -42,17 +42,18 @@
 
 ---
 
+## GitHub statistics
 
-## GitHub stats
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Niafon&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niafon&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top languages" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Niafon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niafon&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Niafon&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
-</p>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Niafon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
 
 ---
 
