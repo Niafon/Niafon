@@ -1,14 +1,6 @@
-<!-- GitHub Profile README for Niafon -->
-
 <div align="center">
 
 # Niafon
-
-### Backend Developer · Python / Go · PostgreSQL · Docker
-
-Пишу backend-сервисы, API, ботов и учебные pet-проекты.
-Основной фокус: чистая архитектура, работа с базами данных, асинхронный Python и Go backend.
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Backend+Developer;Python+%7C+Go+%7C+PostgreSQL+%7C+Docker;Building+APIs%2C+bots+and+backend+systems" alt="Typing SVG" />
