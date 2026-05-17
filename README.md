@@ -46,14 +46,6 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niafon&show_icons=true&theme=tokyonight&hide_border=true" alt="Niafon GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niafon&layout=compact&theme=tokyonight&hide_border=true" alt="Niafon top languages" />
-</p>
-
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Niafon&theme=tokyonight&hide_border=true" alt="GitHub streak" />
